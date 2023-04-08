@@ -1,0 +1,156 @@
+.footer-link:hover {
+    color: darkviolet;
+}
+
+.footer-link {
+    color: rgb(28, 80, 80);
+}
+
+.art {
+    font-weight: 700;
+}
+
+
+.btn {
+    background-color: #281fa7;
+    text-decoration: none;
+    color: rgb(218, 218, 218);
+    border-radius: 0.7rem;
+    padding: 5px;
+}
+
+body {
+    margin: 0px;
+    font-family: 'Phudu', cursive;
+    font-size: 2.5rem;
+}
+
+.cloud1 {
+    margin-top: 70px;
+    position: relative;
+    left: 150px;
+}
+
+.cloud2 {
+    position: absolute;
+    left: 400px;
+
+}
+
+.comic1 {
+    width: 20%;
+    margin-top: 0.7rem;
+    float: right;
+    margin-left: 30px;
+
+}
+
+.contact-me {
+    font-size: 1.5rem;
+    width: 50%;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    line-height: 2;
+}
+
+div {
+    background-color: #eaf6f6;
+    margin: 0px;
+    text-align: center;
+}
+
+a:link {
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+
+h1 {
+
+    margin: 50px auto 0 auto;
+    font-family: 'Inspiration', cursive;
+    font-size: 5.625rem;
+    color: rgb(80, 54, 224);
+}
+
+h2 {
+    color: #785ee9;
+    font-size: 3rem;
+    margin-bottom: 0;
+    font-family: 'Alkatra', cursive;
+}
+
+h3 {
+    color: rgb(121, 18, 206);
+    margin-bottom: 0;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+hr {
+    width: 5%;
+    border-style: dotted none none;
+    border-width: 0.3rem;
+    border-color: #9adada;
+}
+
+p {
+    font-family: 'Forum', cursive;
+
+}
+
+.profile {
+    font-size: 1.5rem;
+    width: 50%;
+    margin: 0 auto 100px auto;
+    text-align: center;
+    line-height: 2;
+
+
+}
+
+.profile1 {
+    width: 30%;
+    border-radius: 80%;
+}
+
+.top_container {
+
+    /* height: 200px;
+    width: 200px; */
+    background-color: rgb(24, 195, 247);
+    /* border: solid black 10px; */
+    /* padding: 20px; */
+    /* display: inline-block; */
+    /* position: absolute;
+    left: 400px;
+    top:400px; */
+
+}
+
+.middle-container {
+    /* margin-top: 6.25rem; */
+}
+
+.bottom-container {
+    padding-top: 70px;
+    background-color: aquamarine;
+    font-size: 1.5rem;
+
+}
+
+.skill-row {
+    font-size: 1.5rem;
+    width: 50%;
+    margin: 6.25rem auto 6.25rem auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skill-row1 {
+    width: 20%;
+    border-radius: 80%;
+    float: left;
+    margin-right: 30px;
+
+
+}
